@@ -1,5 +1,6 @@
 {
- [
+    "nombre": "listado",
+    "listado": [
         {
             "servicio1": "panaderia",
             "servicio2": "confiteria",
@@ -22,4 +23,3 @@
         }
      
     ]
-}
