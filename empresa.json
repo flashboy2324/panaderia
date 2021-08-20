@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Dice",
+        "location": "Estocolmo, Suecia",
+        "industry": "Desarrollo de videojuegos",
+        "id": "dice1"
+    },
+    {
+        "name": "FromSoftware",
+        "location": "Tokio, Japon",
+        "industry": "Desarrollo de videojuegos",
+        "id": "fromsoftware1"
+    },
+    {
+        "name": "Turtle Rock Studio",
+        "location": "Lake Forest California U.S.A.",
+        "industry": "Desarrollo de videojuegos",
+        "id": "turtlerockstudio1"
+    }
+]

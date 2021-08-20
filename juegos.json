@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "Battlefield 2042",
+        "description" : "Battlefield 2042 es un shooter primera persona que mantiene la esencia de la franquicia pero con un toque futurista, adentrate en la guerra y sobrevive para ganar",
+        "category": ["FPS", "Multiplayer", "Accion", "Guerra"],
+        "developers": "Dice",
+        "cost" : "60 US$"
+    },
+    {
+        "name": "Elden Ring",
+        "description": "Elden ring es juego estilo souls que sigue las basicas de su franquicia pero con unas cuantas nuevas y muy copadas mecanicas, adentrate en en universo, ve y busca el Elden ring",
+        "catergory": ["Souls like", "Difiil", "Fantasia oscura", "Rol", "Online Co-op"],
+        "developers": "FromSoftware Inc.",
+        "cost": "50 US$"
+    },
+    {
+        "name": "Back 4 Blood",
+        "description": "Back 4 Blood es un Nuevo lanzamiento de Turtle Rock Studios en el cual quieren llevarnos a sus clasicos juegos de supervivencia zombie, Back 4 Blood es un nuevo y moderno FPS Co-op Survival de la saga Left 4 Dead",
+        "category": ["FPS", "Accion", "Online Co-op", "Zombies", "Terror"],
+        "developers": "Turtle Rock Studio",
+        "cost": "55 US$"
+    }
+]
