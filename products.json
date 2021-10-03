@@ -4,7 +4,7 @@
         "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
         "cost": 13500,
         "currency": "USD",
-        "id": "1",
+        "id": "2",
         "imgSrc": "img/prod1.jpg",
         "soldCount": 14
     },
@@ -13,7 +13,7 @@
         "description": "La versión de Fiat que brinda confort y a un precio accesible.",
         "cost": 14500,
         "currency": "USD",
-        "id": "2",
+        "id": "1",
         "imgSrc": "img/prod2.jpg",
         "soldCount": 52
     },
